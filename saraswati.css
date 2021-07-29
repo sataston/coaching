@@ -30,7 +30,7 @@ div#content{
   text-align: center;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-40%, -40%);
   position: absolute;
   width: 500px;
   font-size: 20px;
@@ -72,7 +72,7 @@ td,tr,th{
     text-align: center;
   top: 50%;
   left: 50%;
-  transform: translate(-35%, -35%);
+  transform: translate(-20%, -20%);
   position: absolute;
   width: 200px;
   word-wrap: break-word;
