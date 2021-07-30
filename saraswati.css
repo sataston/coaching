@@ -47,7 +47,7 @@ td,tr,th{
   border: 1px solid black ;
   align-items: center;
 }
-@media only screen and (max-width: 320px){
+@media only screen and (max-width: 500px){
   img#logo{
     width:33.33px;
     height: 26.66px;
