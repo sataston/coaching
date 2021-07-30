@@ -68,7 +68,7 @@ td,tr,th{
       color: cornsilk;
       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
-  div#content{
+  /*div#content{
     text-align: center;
   top: 50%;
   left: 50%;
@@ -87,7 +87,7 @@ td,tr,th{
   table{
     margin-left: 30.66px;
     border-collapse: collapse;
-  }
+  }*/
 }
 html {
     line-height: 1.15; /* 1 */
